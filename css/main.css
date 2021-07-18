@@ -878,7 +878,7 @@ body::-webkit-scrollbar-thumb {
 ==============================*/
 .main {
   position: relative;
-  margin-top: 70px;
+  /* margin-top: 70px; */
   padding: 0 0 60px;
 }
 .main__title {
@@ -1775,7 +1775,7 @@ body::-webkit-scrollbar-thumb {
 	Home
 ==============================*/
 .home {
-  background: url("../img/home/home.png") no-repeat bottom center/cover;
+  background: url("../img/bg.jpeg") no-repeat bottom center/cover;
   border-bottom: 1px solid #222227;
 }
 .home__content {
